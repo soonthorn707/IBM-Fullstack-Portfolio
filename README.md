@@ -1,6 +1,6 @@
 <!-- Header / Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="IBM Full-Stack JavaScript Developer Portfolio" width="920" />
+  <img src="banner.png" alt="IBM Full-Stack JavaScript Developer Portfolio" width="920" />
 </p>
 
 <h1 align="center">IBM Full-Stack JavaScript Developer — Portfolio</h1>
