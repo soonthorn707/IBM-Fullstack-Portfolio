@@ -27,7 +27,7 @@
 
 | #  | Module | Folder | Status |
 |----|--------|--------|:------:|
-| 01 | Intro to Software Engineering | [`01-intro-software-engineering`](01-intro-software-engineering/README.md) | ✅ |
+| 01 | Introduction to Software Engineering | [`01-Introduction to Software Engineering`](https://github.com/soonthorn707/ibm-fullstack-portfolio/blob/main/01-Introduction%20to%20Software%20Engineering/Module%201%20%E2%80%94%20The%20Software%20Development%20Lifecycle.md) | ✅ |
 | 02 | HTML, CSS, & JavaScript | [`02-introduction-to-html-css-js`](02-introduction-to-html-css-js/README.md) | ⏳ |
 | 03 | Getting Started with Git and GitHub | [`03-getting-started-git-github`](03-getting-started-git-github/README.md) | ⏳ |
 | 04 | JavaScript Programming Essentials | [`04-javascript-programming-essentials`](04-javascript-programming-essentials/README.md) | ⏳ |
