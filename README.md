@@ -28,108 +28,71 @@
 | #  | Module | Folder | Status |
 |----|--------|--------|:------:|
 | 01 | Introduction to Software Engineering | [`01-Introduction to Software Engineering`](https://github.com/soonthorn707/ibm-fullstack-portfolio/tree/main/01-Introduction%20to%20Software%20Engineering) | ✅ |
-| 02 | HTML, CSS, & JavaScript | [`02-introduction-to-html-css-js`](02-introduction-to-html-css-js/README.md) | ⏳ |
-| 03 | Getting Started with Git and GitHub | [`03-getting-started-git-github`](03-getting-started-git-github/README.md) | ⏳ |
-| 04 | JavaScript Programming Essentials | [`04-javascript-programming-essentials`](04-javascript-programming-essentials/README.md) | ⏳ |
-| 05 | Developing Front-End Apps with React | [`05-developing-react`](05-developing-react/README.md) | ⏳ |
-| 06 | Developing Back-End Apps with Node.js & Express | [`06-node-express`](06-node-express/README.md) | ⏳ |
-| 07 | Cloud Native, DevOps, Agile, and NoSQL | [`07-devops-nosql`](07-devops-nosql/README.md) | ⏳ |
-| 08 | Containers with Docker & Kubernetes | [`08-containers`](08-containers/README.md) | ⏳ |
-| 09 | Microservices & Serverless | [`09-microservices`](09-microservices/README.md) | ⏳ |
-| 10 | Node.js & MongoDB | [`10-node-mongodb`](10-node-mongodb/README.md) | ⏳ |
-| 11 | Full-Stack Capstone Project | [`11-capstone-project`](11-capstone-project/README.md) | 🗓 |
-| 12 | Career Guide & Interview Preparation | [`12-career-prep`](12-career-prep/README.md) | 🗓 |
-
----
-
-## ⭐ Featured (Module 1)
-**Mini Blog System — Documentation Project**  
-- 📑 URS / SRS / SysRS  
-- 🏗️ System Design & UML  
-- 🧪 Test Plan  
-- 👥 Roles & Responsibilities  
-
-> See details: [`01-intro-software-engineering`](01-intro-software-engineering/README.md) → `docs/`
-
----
-
-## 📘 Summary of Learning (Modules 1–5)
-
-### ✅ Module 1 — Software Development Lifecycle (SDLC)
-- Learned phases: Requirements → Design → Coding → Testing → Release → Documentation.  
-- Wrote URS, SRS, SysRS with real-world examples.  
-- Practiced **system design with UML** and **test planning**.  
-- Roles clarified: PM, Developer, QA, UX, Ops.  
-
-### ✅ Module 2 — Intro to Software Development
-- Understood **frontend ↔ backend** flow.  
-- Explored teamwork & **pair programming**.  
-- Tools: Git, version control, CI/CD pipelines.  
-
-### ✅ Module 3 — Programming Basics
-- Compared **Interpreted vs Compiled** languages.  
-- Learned flowcharts, pseudocode, and OOP concepts.  
-- Built small examples of functions & reusable code.  
-
-### ✅ Module 4 — Architecture & Design
-- Architecture = blueprint for software.  
-- UML diagrams: Class, State, Interaction.  
-- Patterns studied: 2-tier, 3-tier, Microservices.  
-
-### ✅ Module 5 — Careers & Skillsets
-- Balanced **hard skills** (tech) with **soft skills** (teamwork, comms).  
-- Career tracks: Technical vs Managerial.  
-- Learned **ethics in SE**: 8 guiding principles.  
+| 02 | Introduction to HTML, CSS, & JavaScript | [`02-Introduction to HTML, CSS, & JavaScript`](https://github.com/soonthorn707/ibm-fullstack-portfolio/tree/main/02-Introduction%20to%20HTML%2C%20CSS%2C%20%26%20JavaScript) | ⏳ |
+| 03 | Getting Started with Git and GitHub | [`03-Getting Started with Git and GitHub`](https://github.com/soonthorn707/ibm-fullstack-portfolio/tree/main/03-Getting%20Started%20with%20Git%20and%20GitHubd-git-github/README.md) | ⏳ |
+| 04 | JavaScript Programming Essentials | [`04-JavaScript Programming Essentials`](https://github.com/soonthorn707/ibm-fullstack-portfolio/tree/main/04-JavaScript%20Programming%20Essentials) | ⏳ |
+| 05 | Developing Front-End Apps with React | [`05-Developing Front-End Apps with React`](https://github.com/soonthorn707/ibm-fullstack-portfolio/tree/main/05-Developing%20Front-End%20Apps%20with%20React) | ⏳ |
+| 06 | Developing Back-End Apps with Node.js & Express | [`06-Developing Back-End Apps with Node.js & Express`](https://github.com/soonthorn707/ibm-fullstack-portfolio/tree/main/06-Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express) | ⏳ |
+| 07 | Cloud Native, DevOps, Agile, and NoSQL | [`07-Cloud Native, DevOps, Agile, and NoSQL`](https://github.com/soonthorn707/ibm-fullstack-portfolio/tree/main/07-Get%20Started%20with%20Cloud%20Native%2C%20DevOps%2C%20Agile%2C%20and%20NoSQL) | ⏳ |
+| 08 | Containers with Docker & Kubernetes | [`08-Containers with Docker & Kubernetes`](0https://github.com/soonthorn707/ibm-fullstack-portfolio/tree/main/08-Introduction%20to%20Containers%20w%20Docker%2C%20Kubernetes%20%26%20OpenShift) | ⏳ |
+| 09 | Microservices & Serverless | [`09-Microservices & Serverless`](https://github.com/soonthorn707/ibm-fullstack-portfolio/tree/main/09-Application%20Development%20using%20Microservices%20and%20Serverless) | ⏳ |
+| 10 | Node.js & MongoDB | [`10-Node.js & MongoDB`](https://github.com/soonthorn707/ibm-fullstack-portfolio/tree/main/10-Node.js%20%26%20MongoDB%20Developing%20Back-end%20Database%20Applications) | ⏳ |
+| 11 | Full-Stack Capstone Project | [`1Full-Stack Capstone Project`](https://github.com/soonthorn707/ibm-fullstack-portfolio/tree/main/11-JavaScript%20Full%20Stack%20Capstone%20Project) | 🗓 |
+| 12 | Career Guide & Interview Preparation | [`Career Guide & Interview Preparation`](https://github.com/soonthorn707/ibm-fullstack-portfolio/tree/main/12-Software%20Developer%20Career%20Guide%20and%20Interview%20Preparation) | 🗓 |
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?logo=javascript&logoColor=000">
-  <img alt="React" src="https://img.shields.io/badge/React-18-61DAFB.svg?logo=react&logoColor=000">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-18-339933.svg?logo=node.js&logoColor=fff">
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-4-000000.svg?logo=express&logoColor=fff">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-Atlas-47A248.svg?logo=mongodb&logoColor=fff">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-20-2496ED.svg?logo=docker&logoColor=fff">
-  <img alt="Git" src="https://img.shields.io/badge/Git-2.x-F05032.svg?logo=git&logoColor=fff">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Actions_Ready-181717.svg?logo=github&logoColor=fff">
-</p>
-
----
-
-## 🔗 Quick Links (Module 1 Docs)
-
-<p align="center">
-  <a href="01-intro-software-engineering/mini-blog-docs/docs/URS.md">
-    <img src="https://img.shields.io/badge/URS-User%20Requirement-blue?style=for-the-badge" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?logo=javascript&logoColor=000">
   </a>
-  <a href="01-intro-software-engineering/mini-blog-docs/docs/SRS.md">
-    <img src="https://img.shields.io/badge/SRS-Software%20Requirement-green?style=for-the-badge" />
+  <a href="https://react.dev/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React-18-61DAFB.svg?logo=react&logoColor=000">
   </a>
-  <a href="01-intro-software-engineering/mini-blog-docs/docs/SysRS.md">
-    <img src="https://img.shields.io/badge/SysRS-System%20Requirement-orange?style=for-the-badge" />
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-18-339933.svg?logo=node.js&logoColor=fff">
   </a>
-  <a href="01-intro-software-engineering/mini-blog-docs/docs/design.md">
-    <img src="https://img.shields.io/badge/Design-UML%20%26%20Architecture-purple?style=for-the-badge" />
+  <a href="https://expressjs.com/" target="_blank">
+    <img alt="Express" src="https://img.shields.io/badge/Express.js-4-000000.svg?logo=express&logoColor=fff">
   </a>
-  <a href="01-intro-software-engineering/mini-blog-docs/docs/test-plan.md">
-    <img src="https://img.shields.io/badge/Test%20Plan-QA%20Strategy-red?style=for-the-badge" />
+  <a href="https://www.mongodb.com/atlas/database" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-Atlas-47A248.svg?logo=mongodb&logoColor=fff">
   </a>
-  <a href="01-intro-software-engineering/mini-blog-docs/docs/roles.md">
-    <img src="https://img.shields.io/badge/Roles-%26%20Responsibilities-yellow?style=for-the-badge" />
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-20-2496ED.svg?logo=docker&logoColor=fff">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git-2.x-F05032.svg?logo=git&logoColor=fff">
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Actions_Ready-181717.svg?logo=github&logoColor=fff">
   </a>
 </p>
 
----
 
+---
 ## 👨‍💻 Author
 
 **Name:** Sunthon Sutkhiao (Nickname: Aun)  
-**Role:** Aspiring Full-Stack Developer  
-**Focus:** Documentation-driven development, scalable web apps, and cloud-native solutions.  
-> TH: สนใจสร้างระบบเว็บที่ปรับขยายได้ มีเอกสารประกอบครบถ้วน พร้อมต่อยอดสู่โปรเจ็คจริง
+**Role:** Full-Stack Developer (Specialized in JavaScript Ecosystem)  
+**Profile:** Documentation-driven development, scalable web applications, and cloud-native solutions.  
+> TH: นักพัฒนา Full-Stack ที่มีทั้งทักษะด้าน **Frontend, Backend และ Cloud** พร้อม Portfolio จริง และพร้อมรับงานจริง
 
+### 🛠 Core Skills
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB Atlas, MySQL  
+- **DevOps / Cloud:** Docker, GitHub Actions, CI/CD basics  
+- **Software Engineering:** SDLC, Documentation, UML, Testing  
+
+### 🎯 Career Focus
+- Build modern, responsive, and scalable applications  
+- Deliver production-ready solutions with clean architecture  
+- Collaborate with cross-functional teams in Agile/DevOps environments  
+
+### 📫 Contact
 - GitHub: [soonthorn707](https://github.com/soonthorn707)  
 - LinkedIn: [Sunthon Sutkhiao](https://www.linkedin.com/in/sunthon-sutkhiao-83192737b/)  
 - Email: soonthorn707@gmail.com  
