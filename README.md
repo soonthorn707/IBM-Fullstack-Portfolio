@@ -25,18 +25,18 @@
 
 > Legend: ✅ Completed · ⏳ In progress · 🗓 Planned
 
-| # | Module | Folder | Status |
-|---|--------|--------|:-----:|
+| #  | Module | Folder | Status |
+|----|--------|--------|:------:|
 | 01 | Intro to Software Engineering | [`01-intro-software-engineering`](01-intro-software-engineering/README.md) | ✅ |
-| 02 | HTML, CSS, & JavaScript | [`02-html-css-js`](02-html-css-js/README.md) | 🗓 |
-| 03 | Getting Started with Git and GitHub | [`03-git-github`](03-git-github/README.md) | 🗓 |
-| 04 | JavaScript Programming Essentials | [`04-js-essentials`](04-js-essentials/README.md) | 🗓 |
-| 05 | Developing Front-End Apps with React | [`05-react-app`](05-react-app/README.md) | 🗓 |
-| 06 | Developing Back-End Apps with Node.js & Express | [`06-node-express`](06-node-express/README.md) | 🗓 |
-| 07 | Cloud Native, DevOps, Agile, and NoSQL | [`07-devops-nosql`](07-devops-nosql/README.md) | 🗓 |
-| 08 | Containers with Docker & Kubernetes | [`08-containers`](08-containers/README.md) | 🗓 |
-| 09 | Microservices & Serverless | [`09-microservices`](09-microservices/README.md) | 🗓 |
-| 10 | Node.js & MongoDB | [`10-node-mongodb`](10-node-mongodb/README.md) | 🗓 |
+| 02 | HTML, CSS, & JavaScript | [`02-introduction-to-html-css-js`](02-introduction-to-html-css-js/README.md) | ⏳ |
+| 03 | Getting Started with Git and GitHub | [`03-getting-started-git-github`](03-getting-started-git-github/README.md) | ⏳ |
+| 04 | JavaScript Programming Essentials | [`04-javascript-programming-essentials`](04-javascript-programming-essentials/README.md) | ⏳ |
+| 05 | Developing Front-End Apps with React | [`05-developing-react`](05-developing-react/README.md) | ⏳ |
+| 06 | Developing Back-End Apps with Node.js & Express | [`06-node-express`](06-node-express/README.md) | ⏳ |
+| 07 | Cloud Native, DevOps, Agile, and NoSQL | [`07-devops-nosql`](07-devops-nosql/README.md) | ⏳ |
+| 08 | Containers with Docker & Kubernetes | [`08-containers`](08-containers/README.md) | ⏳ |
+| 09 | Microservices & Serverless | [`09-microservices`](09-microservices/README.md) | ⏳ |
+| 10 | Node.js & MongoDB | [`10-node-mongodb`](10-node-mongodb/README.md) | ⏳ |
 | 11 | Full-Stack Capstone Project | [`11-capstone-project`](11-capstone-project/README.md) | 🗓 |
 | 12 | Career Guide & Interview Preparation | [`12-career-prep`](12-career-prep/README.md) | 🗓 |
 
@@ -53,6 +53,36 @@
 
 ---
 
+## 📘 Summary of Learning (Modules 1–5)
+
+### ✅ Module 1 — Software Development Lifecycle (SDLC)
+- Learned phases: Requirements → Design → Coding → Testing → Release → Documentation.  
+- Wrote URS, SRS, SysRS with real-world examples.  
+- Practiced **system design with UML** and **test planning**.  
+- Roles clarified: PM, Developer, QA, UX, Ops.  
+
+### ✅ Module 2 — Intro to Software Development
+- Understood **frontend ↔ backend** flow.  
+- Explored teamwork & **pair programming**.  
+- Tools: Git, version control, CI/CD pipelines.  
+
+### ✅ Module 3 — Programming Basics
+- Compared **Interpreted vs Compiled** languages.  
+- Learned flowcharts, pseudocode, and OOP concepts.  
+- Built small examples of functions & reusable code.  
+
+### ✅ Module 4 — Architecture & Design
+- Architecture = blueprint for software.  
+- UML diagrams: Class, State, Interaction.  
+- Patterns studied: 2-tier, 3-tier, Microservices.  
+
+### ✅ Module 5 — Careers & Skillsets
+- Balanced **hard skills** (tech) with **soft skills** (teamwork, comms).  
+- Career tracks: Technical vs Managerial.  
+- Learned **ethics in SE**: 8 guiding principles.  
+
+---
+
 ## 🧰 Tech Stack & Tools
 
 <p>
@@ -66,7 +96,6 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Actions_Ready-181717.svg?logo=github&logoColor=fff">
 </p>
 
----
 ---
 
 ## 🔗 Quick Links (Module 1 Docs)
@@ -92,6 +121,7 @@
   </a>
 </p>
 
+---
 
 ## 👨‍💻 Author
 
